@@ -1,0 +1,90 @@
+2024-07-11T21:30:26+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:30:26+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => b000f14940e845a1ac8b6797f39c8ef8
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:30:31+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:30:32+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 7f179105f9e64b4b82c1fd73f3bc9260
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:34:25+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:34:25+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 71bdc66e6b444c35875fd2474449ed19
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:35:02+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:35:03+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 69f8238ab1574635980a72877f4f449a
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:36:12+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:36:13+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => ed1e567f1c384f318c9d340d18c0abc1
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:38:33+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:38:34+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 55ca93072e074cc785a2aecacc13708e
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:48:42+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:48:43+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 98bbe675f21f404a955e180b9ca77032
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:53:56+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:53:58+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => c3003aea429248408c76f7ec3d34e090
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:53:59+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:54:00+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => b9e460ace60940428a843eb96cdb2dba
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:54:38+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:54:39+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => b2b11b0eaaa44c5897e31402882defa1
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:54:51+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:54:52+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => f4340b6190d8402dbf4dedf4dde35759
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T21:58:47+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T21:58:48+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 50d988269f6a424286c476481b2c6c8a
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T22:00:30+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T22:00:31+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => 700fbb90310340e3910094c37c25f8c0
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T22:01:13+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T22:01:14+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => e3e18f64ac304c3389d6e92f0014d985
+)
+ CONTEXT: {"_legacy":true}
+2024-07-11T22:02:03+00:00 NOTICE Requesting session ID... CONTEXT: {"_legacy":true}
+2024-07-11T22:02:04+00:00 NOTICE PagSeguro session is valid! The return is: SimpleXMLElement Object
+(
+    [id] => e99c383573cf47458d2da3768ca4a20f
+)
+ CONTEXT: {"_legacy":true}
